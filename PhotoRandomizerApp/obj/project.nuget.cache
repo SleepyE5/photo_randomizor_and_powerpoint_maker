@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LsWjjO/xJ2M=",
+  "success": true,
+  "projectFilePath": "/Users/enricosgiarovello/RiderProjects/Photo randomise and PowerPoint maker photo randomise and PowerPoint maker/PhotoRandomizerApp/PhotoRandomizerApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/enricosgiarovello/.nuget/packages/documentformat.openxml/3.5.1/documentformat.openxml.3.5.1.nupkg.sha512",
+    "/Users/enricosgiarovello/.nuget/packages/documentformat.openxml.framework/3.5.1/documentformat.openxml.framework.3.5.1.nupkg.sha512",
+    "/Users/enricosgiarovello/.nuget/packages/system.io.packaging/10.0.2/system.io.packaging.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
